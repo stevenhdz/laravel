@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="13b2f4de-5b25-463c-aa02-e3487fb7eec2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProblemsViewState">
+    <hideBySeverity>
+      <option value="15" />
+      <option value="100" />
+      <option value="200" />
+      <option value="300" />
+    </hideBySeverity>
+    <option name="showPreview" value="true" />
+    <option name="sortBySeverity" value="false" />
+  </component>
+  <component name="ProjectId" id="1gs236d2W1tUFtI8Kyi590Pp8bG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/laravel/proyecto/public/js" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/laravel/proyecto/resources/assets/plantilla/css" />
+      <recent name="$PROJECT_DIR$/laravel/proyecto/resources/assets/pantilla" />
+      <recent name="$PROJECT_DIR$/laravel/proyecto/resources/assets/js" />
+      <recent name="$PROJECT_DIR$/laravel/proyecto/resources/assets/css" />
+      <recent name="$PROJECT_DIR$/laravel/proyecto/public" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/laravel/proyecto/public/js" />
+      <recent name="$PROJECT_DIR$/laravel/proyecto/public/css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13b2f4de-5b25-463c-aa02-e3487fb7eec2" name="Default Changelist" comment="" />
+      <created>1598888776832</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598888776832</updated>
+      <workItem from="1598888777916" duration="9232000" />
+      <workItem from="1598928380532" duration="2011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598917673132">
+      <screen x="0" y="23" width="1680" height="983" />
+    </state>
+    <state x="304" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.983@0.23.1680.983" timestamp="1598917673132" />
+    <state x="465" y="231" key="NewPhpClassDialog" timestamp="1598916992275">
+      <screen x="0" y="23" width="1680" height="983" />
+    </state>
+    <state x="465" y="231" key="NewPhpClassDialog/0.23.1680.983@0.23.1680.983" timestamp="1598916992275" />
+    <state x="659" y="441" key="NewPhpFileDialog" timestamp="1598917002743">
+      <screen x="0" y="23" width="1680" height="983" />
+    </state>
+    <state x="659" y="441" key="NewPhpFileDialog/0.23.1680.983@0.23.1680.983" timestamp="1598917002743" />
+  </component>
+</project>
