@@ -21,8 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="13b2f4de-5b25-463c-aa02-e3487fb7eec2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel/proyecto/resources/views/contenido/contenido.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/proyecto/resources/views/contenido/contenido.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/laravel/proyecto/resources/views/plantilla/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/proyecto/resources/views/plantilla/sidebar.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/proyecto/resources/views/principal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/proyecto/resources/views/principal.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,8 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProblemsViewState">
     <hideBySeverity>
@@ -56,6 +58,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/laravel/proyecto/public/js" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -82,8 +85,17 @@
       <workItem from="1598888777916" duration="9232000" />
       <workItem from="1598928380532" duration="2011000" />
       <workItem from="1598937464793" duration="492000" />
-      <workItem from="1598937986755" duration="1565000" />
+      <workItem from="1598937986755" duration="2252000" />
+      <workItem from="1598941295321" duration="182000" />
     </task>
+    <task id="LOCAL-00001" summary="hola">
+      <created>1598940836889</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598940836889</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +113,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hola" />
+    <option name="LAST_COMMIT_MESSAGE" value="hola" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="304" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598917673132">
       <screen x="0" y="23" width="1680" height="983" />
@@ -114,5 +130,13 @@
       <screen x="0" y="23" width="1680" height="983" />
     </state>
     <state x="659" y="441" key="NewPhpFileDialog/0.23.1680.983@0.23.1680.983" timestamp="1598917002743" />
+    <state x="341" y="153" key="SettingsEditor" timestamp="1598941279896">
+      <screen x="0" y="23" width="1680" height="983" />
+    </state>
+    <state x="341" y="153" key="SettingsEditor/0.23.1680.983@0.23.1680.983" timestamp="1598941279896" />
+    <state x="440" y="250" key="Vcs.Push.Dialog.v2" timestamp="1598940793316">
+      <screen x="0" y="23" width="1680" height="983" />
+    </state>
+    <state x="440" y="250" key="Vcs.Push.Dialog.v2/0.23.1680.983@0.23.1680.983" timestamp="1598940793316" />
   </component>
 </project>
