@@ -21,6 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="13b2f4de-5b25-463c-aa02-e3487fb7eec2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/proyecto/resources/views/contenido/contenido.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/proyecto/resources/views/contenido/contenido.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/proyecto/resources/views/plantilla/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/proyecto/resources/views/plantilla/sidebar.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,7 @@
       <workItem from="1598888777916" duration="9232000" />
       <workItem from="1598928380532" duration="2011000" />
       <workItem from="1598937464793" duration="492000" />
-      <workItem from="1598937986755" duration="40000" />
+      <workItem from="1598937986755" duration="1565000" />
     </task>
     <servers />
   </component>
