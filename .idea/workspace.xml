@@ -20,9 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13b2f4de-5b25-463c-aa02-e3487fb7eec2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/laravel/proyecto/resources/js/components/Categoria.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/proyecto/public/css/all.css" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/proyecto/public/css/all.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/proyecto/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/proyecto/public/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/proyecto/resources/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/proyecto/resources/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/proyecto/resources/js/components/ExampleComponent.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/proyecto/resources/views/contenido/contenido.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/proyecto/resources/views/contenido/contenido.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/proyecto/resources/views/plantilla/sidebar.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/proyecto/resources/views/plantilla/sidebar.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/laravel/proyecto/resources/views/principal.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/proyecto/resources/views/principal.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/laravel/proyecto/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/laravel/proyecto/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +51,8 @@
       <option value="200" />
       <option value="300" />
     </hideBySeverity>
+    <option name="proportion" value="0.26948053" />
     <option name="showPreview" value="true" />
-    <option name="sortBySeverity" value="false" />
   </component>
   <component name="ProjectId" id="1gs236d2W1tUFtI8Kyi590Pp8bG" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -54,24 +61,26 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/laravel/proyecto/public/js" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/laravel/proyecto/public/js" />
+      <recent name="$PROJECT_DIR$/laravel/proyecto/public/css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/laravel/proyecto/resources/assets/plantilla/css" />
       <recent name="$PROJECT_DIR$/laravel/proyecto/resources/assets/pantilla" />
       <recent name="$PROJECT_DIR$/laravel/proyecto/resources/assets/js" />
       <recent name="$PROJECT_DIR$/laravel/proyecto/resources/assets/css" />
       <recent name="$PROJECT_DIR$/laravel/proyecto/public" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/laravel/proyecto/public/js" />
-      <recent name="$PROJECT_DIR$/laravel/proyecto/public/css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -86,7 +95,7 @@
       <workItem from="1598928380532" duration="2011000" />
       <workItem from="1598937464793" duration="492000" />
       <workItem from="1598937986755" duration="2252000" />
-      <workItem from="1598941295321" duration="182000" />
+      <workItem from="1598941295321" duration="8653000" />
     </task>
     <task id="LOCAL-00001" summary="hola">
       <created>1598940836889</created>

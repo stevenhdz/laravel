@@ -3,8 +3,8 @@
     <template v-if="menu==0">
         <example-component></example-component>
     </template>
-    <template v-if="menu==23">
-        <h1>holasssssssssss</h1>
+    <template v-if="menu==1">
+        <categoria></categoria>
     </template>
     <template v-if="menu==2">
         <example-component></example-component>

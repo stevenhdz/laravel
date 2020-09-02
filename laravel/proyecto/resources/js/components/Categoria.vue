@@ -205,9 +205,26 @@
 </template>
 
 <script>
-    export default {
-        mounted() {
-            console.log('Component mounted.')
+export default {
+    data(){
+      return {
+          nombre:'',
+          descripcion:''
+      }
+    },
+    methods:{
+        listarCategoria(){
+            axios.get('/categoria')
+                .then(function (response) {
+                    console.log(response);
+                })
+                .catch(function (error) {
+                    console.log(error);
+                });
         }
+    },
+    mounted() {
+        this.listarCategoria();
     }
+}
 </script>
